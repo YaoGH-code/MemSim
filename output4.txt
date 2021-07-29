@@ -1,0 +1,55 @@
+Context switched = 48
+Start time = 0, 	End time =60675217
+User time = 4870, 	OS time = 60670347
+Number of disk interrupt = 0, 	Number of page faults 0, 	Number of TLB miss 0, 
+Blocked state duration = 0
+
+
+Process: process11: 
+Hit Ratio = -nan 	Process completion time = 1101	user time = 4	OS time = 0
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 0
+
+
+Process: process19: 
+Hit Ratio = -nan 	Process completion time = 9784	user time = 2	OS time = 0
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 0
+
+
+Process: process17: 
+Hit Ratio = 0.000000 	Process completion time = 20328884	user time = 202	OS time = 40000
+Blocked state duration = 0	Number of page faults = 7534832	 Number of TLB miss = 2
+
+
+Process: process18: 
+Hit Ratio = 0.000000 	Process completion time = 30469782	user time = 304	OS time = 60000
+Blocked state duration = 0	Number of page faults = 7518784	 Number of TLB miss = 3
+
+
+Process: process13: 
+Hit Ratio = 0.500000 	Process completion time = 30473206	user time = 507	OS time = 60000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 5
+
+
+Process: process10: 
+Hit Ratio = 0.428571 	Process completion time = 40571012	user time = 707	OS time = 80000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 7
+
+
+Process: process12: 
+Hit Ratio = 0.200000 	Process completion time = 40572104	user time = 509	OS time = 80000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 5
+
+
+Process: process16: 
+Hit Ratio = 0.285714 	Process completion time = 50630785	user time = 711	OS time = 100000
+Blocked state duration = 7569904	Number of page faults = 0	 Number of TLB miss = 7
+
+
+Process: process15: 
+Hit Ratio = 0.400000 	Process completion time = 60674096	user time = 1013	OS time = 120000
+Blocked state duration = 7582000	Number of page faults = 0	 Number of TLB miss = 10
+
+
+Process: process14: 
+Hit Ratio = 0.333333 	Process completion time = 60675201	user time = 911	OS time = 120000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 9

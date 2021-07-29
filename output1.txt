@@ -1,0 +1,20 @@
+Context switched = 2
+Start time = 0, 	End time =2008
+User time = 7, 	OS time = 2001
+Number of disk interrupt = 0, 	Number of page faults 0, 	Number of TLB miss 0, 
+Blocked state duration = 0
+
+
+Process: process1: 
+Hit Ratio = -nan 	Process completion time = 2	user time = 2	OS time = 0
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 0
+
+
+Process: process2: 
+Hit Ratio = -nan 	Process completion time = 1002	user time = 2	OS time = 0
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 0
+
+
+Process: process3: 
+Hit Ratio = -nan 	Process completion time = 2004	user time = 3	OS time = 0
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 0

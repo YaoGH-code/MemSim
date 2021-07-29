@@ -1,0 +1,25 @@
+Context switched = 330
+Start time = 0, 	End time =334234279
+User time = 1496300, 	OS time = 332737979
+Number of disk interrupt = 0, 	Number of page faults 0, 	Number of TLB miss 0, 
+Blocked state duration = 0
+
+
+Process: process38: 
+Hit Ratio = 0.998344 	Process completion time = 334166243	user time = 370800	OS time = 660000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 2708
+
+
+Process: process36: 
+Hit Ratio = 0.998336 	Process completion time = 334192684	user time = 372600	OS time = 660000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 2726
+
+
+Process: process39: 
+Hit Ratio = 0.998358 	Process completion time = 334223803	user time = 369300	OS time = 660000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 2693
+
+
+Process: process37: 
+Hit Ratio = 0.998362 	Process completion time = 334234269	user time = 383600	OS time = 660000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 2836

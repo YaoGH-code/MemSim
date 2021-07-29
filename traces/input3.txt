@@ -1,0 +1,26 @@
+# list of system parameters specified as parameter-descriptive-string parameter-value; (all latencies are in  units of a “cycle”)
+# list of parameters that will remain the same across all experiments
+Non-mem-inst-length 1
+Virtual-addr-size-in-bits 32
+DRAM-size-in-MB 4
+TLB-size-in-entries 16
+TLB-latency 1
+DRAM-latency 100
+Swap-latency 10000000
+Page-fault-trap-handling-time 10000
+Swap-interrupt-handling-time 10000
+TLB-type FullyAssociative
+TLB-replacement-policy LRU
+# list of parameters that may vary across experiments
+P-in-bits 12
+Frac-mem-inst 0.9
+Num-pagetable-levels 3
+N1-in-bits 8
+N2-in-bits 8
+N3-in-bits 4
+Page-replacement-policy LRU
+Num-procs 3
+# trace-file-name arrival-time-of-process
+process7 0       
+process8 10         
+process9 15       

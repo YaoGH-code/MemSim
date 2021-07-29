@@ -1,0 +1,20 @@
+Context switched = 24
+Start time = 0, 	End time =60334708
+User time = 2326, 	OS time = 60332382
+Number of disk interrupt = 0, 	Number of page faults 0, 	Number of TLB miss 0, 
+Blocked state duration = 0
+
+
+Process: process6: 
+Hit Ratio = 0.444444 	Process completion time = 50310498	user time = 909	OS time = 100000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 9
+
+
+Process: process4: 
+Hit Ratio = 0.166667 	Process completion time = 50311506	user time = 609	OS time = 100000
+Blocked state duration = 0	Number of page faults = 0	 Number of TLB miss = 6
+
+
+Process: process5: 
+Hit Ratio = 0.250000 	Process completion time = 60334704	user time = 808	OS time = 120000
+Blocked state duration = 39345104	Number of page faults = 0	 Number of TLB miss = 8
